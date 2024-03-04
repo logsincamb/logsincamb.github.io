@@ -1,6 +1,6 @@
 # Participant List
 
-The following runs a function (defined in `utils.jl`) which processes a list of participants fromthe file `participants.csv` and prints them in alphabetical order.
+The following runs a function (defined in `utils.jl`) which processes a list of participants from the file `participants.csv` and prints them in alphabetical order.
 
 {{ printlinebyline pages/participants.csv &nbsp; &nbsp;&nbsp;( &nbsp;at&nbsp; )<br>}}
 

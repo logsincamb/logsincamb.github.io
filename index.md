@@ -1,6 +1,3 @@
-@def title = "Isaac Martin"
-@def tags = ["syntax", "code"]
-
 ~~~<center>~~~
 
 # BERND AND MARK AND DHRUV'S SUPER DUPER SUMMER CONFERENCE

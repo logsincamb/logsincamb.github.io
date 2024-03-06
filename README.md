@@ -33,6 +33,6 @@ The generated site, complete with HTML files is placed in the directory `__site`
 
 ### Potentially useful features
 
-**Math**: Write math inline using pairs of `$`: `$\mathbb C$` for instance. Use \begin{align*}\end{align*} for display mode math. Besides `tikz` and `tikz-cd` most major libraries you'd want for typesetting math are supported by default. Potentially useful for putting talk abstracts directly on the website.
+**Math**: Write math inline using pairs of `$`: `$\mathbb C$` for instance. Use `\begin{align*}\end{align*}` for display mode math. Besides `tikz` and `tikz-cd` most major libraries you'd want for typesetting math are supported by default. Potentially useful for putting talk abstracts directly on the website.
 
 **Custom Commands and Functions**: [See the docs](https://franklinjl.org/syntax/divs-commands/#latex-like_commands) for more information. Commands can be added in individual markdown files with `\newcommand{}[]{}` and can be defined globally by inserting them in `config.md`, located in the base directory. You can also customize the generation of site content with julia functions called `hfun`. I took the liberty of writting one that will print a participant list (`/pages/participants.csv`) in alphabetical order.

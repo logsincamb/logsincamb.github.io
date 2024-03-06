@@ -1,6 +1,6 @@
 # README
 
-This is a website for the Logarithmic Moduli Theory Conference in Cambridge. I decided to use the julia-based static site generator [Franklin](https://franklinjl.org/) since I was already familiar with it; though this is definitely overkill for a simple website like this.
+This is a website for the Logarithmic Moduli Theory Conference in Cambridge. I decided to use the julia-based static site generator [Franklin](https://franklinjl.org/) since I was already familiar with it; though this is definitely overkill for a simple website like this. Google sites or vanilla Jekyll would've worked just as well.
 
 ## Franklin Usage
 

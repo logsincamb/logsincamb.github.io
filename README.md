@@ -17,6 +17,7 @@ See [the official quick start tutorial](https://franklinjl.org/). TLDR (assuming
 ### Generate the site
 
 Navigate to the base directory of the site in your CLI. You should see the directories `_assets`, `_css`, `_layout`, etc. Enter the julia interactive environment with `julia` and then enter
+
 ```bash
 julia> using Franklin
 
